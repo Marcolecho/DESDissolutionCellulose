@@ -1,9 +1,9 @@
 # DESDissolutionCellulose
 Générateur de DES pouvant dissoudre la cellulose.  
 Exploitation de l'article :   
-https://link.springer.com/article/10.1186/s13321-025-01018-z
-https://github.com/Mengyang2024/ML4IL
-https://github.com/Mengyang2024/IonGen
+https://link.springer.com/article/10.1186/s13321-025-01018-z  
+https://github.com/Mengyang2024/ML4IL  
+https://github.com/Mengyang2024/IonGen  
 
 ## Architecture
 
