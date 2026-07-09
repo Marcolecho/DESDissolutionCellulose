@@ -27,7 +27,15 @@ conda activate ML4IL
 conda install cudatoolkit=11.8.0
 conda install cudnn=8.9.2.26 -c anaconda
 pip install tensorflow==2.13.0 rdkit==2023.9.4 pandas==1.5.3 scikit-learn==1.3.0 shap==0.44.1 matplotlib
-
-Pour entrainer le modèle : "python.exe trainKeras.py"
-Pour prédire avec le modèle : "python.exe testKeras.py"
 ```
+
+## Pour lancer le projet
+
+Pour entrainer le modèle Keras  :  
+```python.exe trainKeras.py```
+
+Pour prédire avec le modèle Keras :  
+```python.exe testKeras.py```
+
+Le fichier récupérant les résultats des prédictions avec keras se trouve dans 
+```./results/resultKeras.csv```
